@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 update file2 (button)
+=======
+update file2 (dropdown)
+>>>>>>> branch2
